@@ -1,3 +1,3 @@
 # Linux
 
-- [Permissions](Permissons.md)
+- [Permissions](docs/Permissons.md)
