@@ -1,1 +1,3 @@
 # Linux
+
+- [Permissions](Permissons.md)
